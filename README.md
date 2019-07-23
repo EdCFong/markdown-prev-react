@@ -1,3 +1,8 @@
+# Markdown Previewer
+<p>This is a Front End Libraries Course's project from
+<a href="https://www.freecodecamp.org/"target="_blank">FreeCodeCamp</a></p>
+<p>Watch a preview in <a href="https://codepen.io/edcfong/full/gVPBEp"target="_blank">CodePen</a></p>
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
